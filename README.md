@@ -285,7 +285,7 @@ If this project helps you, please consider giving it a ⭐ on GitHub!
 **Project Maintainer**: Sosthene Mounsambote 
 **Email**: sosthenemounsambote14@gmail.com  
 **GitHub**: [@sosthene14](https://github.com/sosthene14)  
-**LinkedIn**: [Your Profile](https://sn.linkedin.com/in/sosthene-mounsambote-311171248)
+**LinkedIn**: [sosthene mounsambote](https://sn.linkedin.com/in/sosthene-mounsambote-311171248)
 
 ---
 
