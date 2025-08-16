@@ -276,8 +276,9 @@ This tool downloads publicly available data from football-data.co.uk. Users are 
 
 If this project helps you, please consider giving it a ⭐ on GitHub!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sosthene14/footballdataset&type=Timeline)](https://github.com/sosthene14/footballdataset)
+ ## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=sosthene14/footballdataset&type=Date)](https://www.star-history.com/#sosthene14/footballdataset&Date)
 ---
 
 ## 📞 Contact
